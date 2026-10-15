@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google/yapf/commit/12005095296072751e3e4c1f33a047d41b0ce18d",
       "git:hexsha": "12005095296072751e3e4c1f33a047d41b0ce18d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:42:37.153072+00:00"
     },
     {
       "@id": "https://repolex.ai/r/google/yapf/commit/28057a4bbc41f9362471f4c646ba8a50974ca662",
